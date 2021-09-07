@@ -54,9 +54,9 @@
     ]
   },
   "devDependencies": {
-    "@babel/core": "^7.5.0",
-    "@babel/plugin-transform-runtime": "^7.5.0",
-    "@babel/preset-env": "^7.5.0",
+    "@babel/core": "^7.7.5",
+    "@babel/plugin-transform-runtime": "^7.7.5",
+    "@babel/preset-env": "^7.7.5",
     "all-contributors-cli": "5.11.0",
     "babel-jest": "^25.1.0",
     "babel-loader": "^8.0.4",
@@ -89,7 +89,7 @@
     "webpack-dev-server": "^3.7.2"
   },
   "dependencies": {
-    "@babel/runtime": "7.1.2",
+    "@babel/runtime": "7.7.5",
     "cornerstone-math": "0.1.7"
   },
   "files": [
